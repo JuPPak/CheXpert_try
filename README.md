@@ -1,9 +1,9 @@
-🔦 Chest X-Ray Image Classifications
+# 🔦 Chest X-Ray Image Classifications
 
-📌 Discription
+## 📌 Discription
 > open source로 제공되는 CheXpert dataset을 이용해서 classification 하는 모델을 구성해볼 예정
 
-🎁 Directory 구조
+## 🎁 Directory 구조
 ```
 chexpert_code
 ├── config
@@ -37,10 +37,10 @@ dataset
 │   └── └── valid.csv
 ```
 
-📑 notebooks
+## 📑 notebooks
 - 
   
-🎫 reference
+## 🎫 reference
 https://stanfordmlgroup.github.io/competitions/chexpert/
 https://github.com/jfhealthcare/Chexpert
 https://github.com/thanhtran98/chexpert_pytorch_base
