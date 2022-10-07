@@ -1,9 +1,10 @@
 🔦 Chest X-Ray Image Classifications
 
 📌 Discription
-open source로 제공되는 CheXpert dataset을 이용해서 classification 하는 모델을 구성해볼 예정
+> open source로 제공되는 CheXpert dataset을 이용해서 classification 하는 모델을 구성해볼 예정
 
 🎁 Directory 구조
+```
 chexpert_code
 ├── config
 │   ├── example.json
@@ -34,6 +35,7 @@ dataset
 │   │   ├── valid
 │   │   ├── train.csv
 │   └── └── valid.csv
+```
 
 📑 notebooks
 - 
