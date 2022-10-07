@@ -41,6 +41,6 @@ dataset
 - 
   
 ## 🎫 reference
-https://stanfordmlgroup.github.io/competitions/chexpert/
+https://stanfordmlgroup.github.io/competitions/chexpert
 https://github.com/jfhealthcare/Chexpert
 https://github.com/thanhtran98/chexpert_pytorch_base
